@@ -8,12 +8,11 @@
 5. [Technologies Used](#technologies-used)
 6. [How to use](#how-to-use)
 7. [How to run](#how-to-run)
-8. [Supported Conversions](#supported-conversions)
-9. [Example to convert files](#example-to-convert-files)
-10. [Project Structure](#project-structure)
-11. [What you get ](#what-you-get)
-12. [Project structure  ](#project-structure)
-13. [Clone the Repository](#clone-the-repository)
+8. [Example to convert files](#example-to-convert-files)
+9. [Project Structure](#project-structure)
+10. [What you get ](#what-you-get)
+11. [Project structure  ](#project-structure)
+12. [Clone the Repository](#clone-the-repository)
 
 ---
 
