@@ -1,0 +1,22 @@
+<Map1>
+  <root>
+    <zip>12345</zip>
+    <phone_home>555-555-1234</phone_home>
+    <city>Anytown</city>
+    <street>123 Main St</street>
+    <name>John Doe</name>
+    <phone_work>555-555-5678</phone_work>
+    <age>30</age>
+    <email>john.doe@example.com</email>
+  </root>
+  <root>
+    <zip>54321</zip>
+    <phone_home>555-555-9876</phone_home>
+    <city>Othercity</city>
+    <street>456 Maple Ave</street>
+    <name>Jane Smith</name>
+    <phone_work>555-555-6543</phone_work>
+    <age>25</age>
+    <email>jane.smith@example.com</email>
+  </root>
+</Map1>

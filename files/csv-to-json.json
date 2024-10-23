@@ -1,0 +1,19 @@
+[ {
+  "zip" : "12345",
+  "phone_home" : "555-555-1234",
+  "city" : "Anytown",
+  "street" : "123 Main St",
+  "name" : "John Doe",
+  "phone_work" : "555-555-5678",
+  "age" : "30",
+  "email" : "john.doe@example.com"
+}, {
+  "zip" : "54321",
+  "phone_home" : "555-555-9876",
+  "city" : "Othercity",
+  "street" : "456 Maple Ave",
+  "name" : "Jane Smith",
+  "phone_work" : "555-555-6543",
+  "age" : "25",
+  "email" : "jane.smith@example.com"
+} ]

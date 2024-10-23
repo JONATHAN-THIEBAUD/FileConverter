@@ -1,1 +1,12 @@
-<ObjectNode><name>John Doe</name><age>30</age><email>john.doe@example.com</email><address><street>123 Main St</street><city>Anytown</city><zip>12345</zip></address><phoneNumbers><type>home</type><number>555-555-1234</number></phoneNumbers><phoneNumbers><type>work</type><number>555-555-5678</number></phoneNumbers></ObjectNode>
+<Map1>
+  <root>
+    <name>John Doe</name>
+    <age>30</age>
+    <email>john.doe@example.com</email>
+    <address>
+      <street>123 Main St</street>
+      <city>Anytown</city>
+      <zip>12345</zip>
+    </address>
+  </root>
+</Map1>
