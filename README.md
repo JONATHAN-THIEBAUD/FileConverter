@@ -62,14 +62,14 @@ We followed a collaborative Git workflow:
 
 ---
 
-## How to Build
+## How to use
 
 ### Prerequisites
 
 - **Java 21** or later must be installed on your system.
 - **Maven** must be installed to build the project.
 
-### How to use
+### How to run
 
 ```bash
 java -jar target/cli-converter-1.0-SNAPSHOT.jar --input_type <INPUT_TYPE> --filepath <PATH_TO_INPUT_FILE> --output_type <OUTPUT_TYPE>
