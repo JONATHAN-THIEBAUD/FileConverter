@@ -1,38 +1,53 @@
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# Maven target directory
+/target/
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDE specific files
+
+## IntelliJ IDEA
+.idea/
 *.iml
-*.ipr
+out/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
+## Eclipse
 .project
-.settings
-.springBeans
-.sts4-cache
+.classpath
+.settings/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+## NetBeans
+nbproject/private/
 build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
 
-### VS Code ###
-.vscode/
-
-### Mac OS ###
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Maven wrapper files
+!mvnw
+!mvnw.cmd
+.mvn/wrapper/maven-wrapper.jar
+
+# Java and Maven related
+*.jar
+*.war
+*.ear
+
+# Git-specific
+/.gitignore
+
+# Generated files
+*.generated
