@@ -1,0 +1,14 @@
+<Map1>
+  <root>
+    <root>
+      <name>John Doe</name>
+      <age>30</age>
+      <email>john.doe@example.com</email>
+      <address>
+        <street>123 Main St</street>
+        <city>Anytown</city>
+        <zip>12345</zip>
+      </address>
+    </root>
+  </root>
+</Map1>
