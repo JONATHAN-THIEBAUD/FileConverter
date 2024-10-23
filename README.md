@@ -9,10 +9,11 @@
 6. [How to use](#how-to-use)
 7. [How to run](#how-to-run)
 8. [Supported Conversions](#supported-conversions)
-9. [Example to convert files](#Example-to-convert-files)
+9. [Example to convert files](#example-to-convert-files)
 10. [Project Structure](#project-structure)
-11. [What you get ](#What-you-get )
-12. [Clone the Repository](#Clone-the-Repository)
+11. [What you get ](#what-you-get)
+12. [Project structure  ](#project-structure)
+13. [Clone the Repository](#clone-the-repository)
 
 ---
 
