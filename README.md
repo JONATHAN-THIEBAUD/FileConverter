@@ -6,13 +6,13 @@
 3. [Group Composition](#group-composition)
 4. [Git Workflow](#git-workflow)
 5. [Technologies Used](#technologies-used)
-6. [How to Build](#how-to-build)
-7. [How to Use](#how-to-use)
+6. [How to use](#how-to-use)
+7. [How to run](#how-to-run)
 8. [Supported Conversions](#supported-conversions)
-9. [Example Files](#example-files)
+9. [Example to convert files](#Example-to-convert-files)
 10. [Project Structure](#project-structure)
-11. [Possible Improvements](#possible-improvements)
-12. [License](#license)
+11. [What you get ](#What-you-get )
+12. [Clone the Repository](#Clone-the-Repository)
 
 ---
 
@@ -94,6 +94,23 @@ Successfully converted JSON to CSV. Output saved to: ./files/json-to-csv.csv
 ```
 ```bash
 json-to-csv.csv
+```
+
+### Project structure 
+
+```bash
+.
+├── README.md                 # Project documentation
+├── pom.xml                   # Maven configuration file
+├── src
+│   └── main
+│       └── java
+│           └── ch
+│               └── heigvd
+│                   └── dai
+│                       └── FileConverter.java  # Main Java class for the CLI tool
+└── target
+    └── cli-converter-1.0-SNAPSHOT.jar  # The compiled jar file
 ```
 
 ### Clone the Repository
